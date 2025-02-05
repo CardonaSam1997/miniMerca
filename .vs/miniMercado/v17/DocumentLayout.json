@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Cardona\\source\\repos\\miniMercado\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ADD4EA52-5279-4918-902E-CBA2FFB78AF4}|miniMercado\\miniMercado.csproj|c:\\users\\cardona\\source\\repos\\minimercado\\minimercado\\entity\\minimercadocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD4EA52-5279-4918-902E-CBA2FFB78AF4}|miniMercado\\miniMercado.csproj|solutionrelative:minimercado\\entity\\minimercadocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD4EA52-5279-4918-902E-CBA2FFB78AF4}|miniMercado\\miniMercado.csproj|c:\\users\\cardona\\source\\repos\\minimercado\\minimercado\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD4EA52-5279-4918-902E-CBA2FFB78AF4}|miniMercado\\miniMercado.csproj|solutionrelative:minimercado\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADD4EA52-5279-4918-902E-CBA2FFB78AF4}|miniMercado\\miniMercado.csproj|c:\\users\\cardona\\source\\repos\\minimercado\\minimercado\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADD4EA52-5279-4918-902E-CBA2FFB78AF4}|miniMercado\\miniMercado.csproj|solutionrelative:minimercado\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MiniMercadoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cardona\\source\\repos\\miniMercado\\miniMercado\\Entity\\MiniMercadoContext.cs",
+              "RelativeDocumentMoniker": "miniMercado\\Entity\\MiniMercadoContext.cs",
+              "ToolTip": "C:\\Users\\Cardona\\source\\repos\\miniMercado\\miniMercado\\Entity\\MiniMercadoContext.cs",
+              "RelativeToolTip": "miniMercado\\Entity\\MiniMercadoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:29:31.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cardona\\source\\repos\\miniMercado\\miniMercado\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "miniMercado\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Cardona\\source\\repos\\miniMercado\\miniMercado\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "miniMercado\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:28:37.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Cardona\\source\\repos\\miniMercado\\miniMercado\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "miniMercado\\Controllers\\ProductController.cs",

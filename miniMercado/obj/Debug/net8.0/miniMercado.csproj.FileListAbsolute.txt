@@ -106,3 +106,4 @@ C:\Users\Cardona\source\repos\miniMercado\miniMercado\bin\Debug\net8.0\tr\Micros
 C:\Users\Cardona\source\repos\miniMercado\miniMercado\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Cardona\source\repos\miniMercado\miniMercado\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Cardona\source\repos\miniMercado\miniMercado\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Cardona\source\repos\miniMercado\miniMercado\obj\Debug\net8.0\miniMercado.sourcelink.json
